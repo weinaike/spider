@@ -1,4 +1,5 @@
 stories/
+stories_*/
 __pycache__/
 *.pyc
 *.pyo
